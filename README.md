@@ -10,7 +10,7 @@
 ## 🌱 Currently Learning
 - 🎯 Studying Adversarial Attacks and Deep Learning Research
 - 🏋️‍♂️ Interested in AI-powered Video Analysis with YOLO
-- 🇯🇵 Learning Japanese
+ 
 
 ## 📖 Read Papers
 - **Generative Adversarial Networks (GANs)**
