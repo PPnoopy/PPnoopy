@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello! I'm [사용자명]
 
-<!--
-**PPnoopy/PPnoopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/사용자명?style=social)
+![GitHub stars](https://img.shields.io/github/stars/사용자명?style=social)
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- 💻 Languages: Python, JavaScript, C++
+- 🧠 AI & ML: TensorFlow, PyTorch, OpenCV
+- 📡 Backend: Flask, FastAPI, Langchain
+- 🛠 DevOps: Docker, Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- 🎯 Studying Adversarial Attacks and Deep Learning Research
+- 🏋️‍♂️ Interested in AI-powered Video Analysis with YOLO
+- 🇯🇵 Learning Japanese
+
+## 📫 How to reach me
+- ✉️ Email: your.email@example.com
+- 💬 LinkedIn: [your-linkedin](https://linkedin.com/in/yourname)
+- 🏡 Blog: [your-blog](https://yourblog.com)
+
+---
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=radical)
