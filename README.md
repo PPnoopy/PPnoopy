@@ -15,7 +15,7 @@
 ## 📖 Read Papers
 - **Generative Adversarial Networks (GANs)**
   - 📄 *A Style-Based Generator Architecture for Generative Adversarial Networks* (StyleGAN)
-  - 📄 *Analyzing and Improving the Image Quality of StyleGAN* (StyleGAN)
+   
 
 - **Adversarial Attacks & Watermarking**
   - 📄 *HiDDeN: Hiding Data With Deep Networks* (Deep Learning-based Steganography & Watermarking)
